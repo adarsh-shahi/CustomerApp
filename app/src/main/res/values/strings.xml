@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Gotraser</string>
+    <string name="facebook_app_id">2337815646525887</string>
+    <string name="fb_login_protocol_scheme">fb2337815646525887</string>
+    <string name="title_activity_customer_map">Map</string>
+    <string name="google_maps_API_key">AIzaSyAZt4pKTVuVa4tNp5wxmiGtj5IEdQaw4cU</string>
+    <string-array name="goodsType">
+        <item>--Goods Type--</item>
+        <item>Groceries</item>
+        <item>Agricultural</item>
+        <item>Pharmaceuticals</item>
+        <item>Sports</item>
+        <item>Industrial Machinery</item>
+        <item>House Relocation</item>
+        <item>Other</item>
+    </string-array>
+    <string name="title_activity_bookings">Bookings</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_checking_options">CheckingOptions</string>
+</resources>

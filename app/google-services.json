@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "762078288793",
+    "firebase_url": "https://trago-driver.firebaseio.com",
+    "project_id": "trago-driver",
+    "storage_bucket": "trago-driver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762078288793:android:bb08dabea5c3ee1fd45108",
+        "android_client_info": {
+          "package_name": "com.example.goapproval"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762078288793-kshhfgc16ful91m4inth3b7gqkl5on7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCayKU6brUcqN1gcECL_NX8ozMrAVuV_p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762078288793-kshhfgc16ful91m4inth3b7gqkl5on7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762078288793:android:3cca16afcfa1a462d45108",
+        "android_client_info": {
+          "package_name": "com.example.gotraser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762078288793-kshhfgc16ful91m4inth3b7gqkl5on7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCayKU6brUcqN1gcECL_NX8ozMrAVuV_p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762078288793-kshhfgc16ful91m4inth3b7gqkl5on7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762078288793:android:f24883a3c5d7aed3d45108",
+        "android_client_info": {
+          "package_name": "com.example.trago"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762078288793-kshhfgc16ful91m4inth3b7gqkl5on7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCayKU6brUcqN1gcECL_NX8ozMrAVuV_p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762078288793-kshhfgc16ful91m4inth3b7gqkl5on7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762078288793:android:21972790e267f4c8d45108",
+        "android_client_info": {
+          "package_name": "com.example.trago_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762078288793-oc6qsskohsj3kr4dubbge5f94iqb4dm5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trago_driver",
+            "certificate_hash": "45e26d48dfc0c7cabceca330abeb2802aa2cde34"
+          }
+        },
+        {
+          "client_id": "762078288793-kshhfgc16ful91m4inth3b7gqkl5on7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCayKU6brUcqN1gcECL_NX8ozMrAVuV_p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762078288793-kshhfgc16ful91m4inth3b7gqkl5on7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
